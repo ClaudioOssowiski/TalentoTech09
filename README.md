@@ -1,7 +1,7 @@
 # Nome do Projeto
 
-Criando um exemplo aplicado no git hub, usando uma atividade anterior.
+Aplicando um repositório no Git Hub
 
 # Objetivo do projeto
 
-Aprender como se cria um repositório no git Hub.
+Aprender como se cria um repositório no git Hub, usando um projeto anterior do talento Tech
